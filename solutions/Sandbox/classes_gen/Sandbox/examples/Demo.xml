@@ -1,0 +1,8 @@
+<Customer>
+  
+  <Name>{{customer_name}}</Name>
+  <forEach>
+    
+    <Transaction>{{$customer_transaction}}</Transaction>
+  </forEach>
+</Customer>
